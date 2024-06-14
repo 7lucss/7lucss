@@ -1,16 +1,14 @@
-## Hi there 👋
+## Olá Devs, eu sou o Lucas 👋
 
-<!--
-**7lucss/7lucss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+  - 💡 Javascript | Python <br>
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30" style="display: inline-block; margin-right: 10px;"/>
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" style="display: inline-block;"/>
+  - 👀 Aberto a oportunidades
 
-Here are some ideas to get you started:
+## Contato:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://www.linkedin.com/in/lucas-andr-silva/" target="blank_"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30" height="30"/>
+</div>
+
