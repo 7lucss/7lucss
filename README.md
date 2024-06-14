@@ -7,8 +7,7 @@
   - 👀 Aberto a oportunidades
 
 ## Contato:
+  - 📧 Email: lucasandrade270805@gmail.com <br>
+    <a href="https://www.linkedin.com/in/lucas-andr-silva/" target="blank_"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30" height="30"/>
 
-<div>
-  <a href="https://www.linkedin.com/in/lucas-andr-silva/" target="blank_"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30" height="30"/>
-</div>
 
